@@ -1,0 +1,16 @@
+command_id: 7E0.7E8.22F442
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562F4423313
+  expected_values:
+    SEAT_VPWR: 13.075
+- response: 7E80562F44239B3
+  expected_values:
+    SEAT_VPWR: 14.771
+- response: 7E80562F44239CB
+  expected_values:
+    SEAT_VPWR: 14.795
+- response: 7E80562F44239E2
+  expected_values:
+    SEAT_VPWR: 14.818
