@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.22F431
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E80562F4311371
+  expected_values:
+    SEAT_CLR_DIST: 4977
+- response: 7E80562F4311372
+  expected_values:
+    SEAT_CLR_DIST: 4978
