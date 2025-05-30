@@ -1,0 +1,11 @@
+command_id: 7E5.7ED.221E3B
+test_cases:
+- response: 7ED05621E3B051C
+  expected_values:
+    SEAT_HVBAT_VOLTS: 327
+- response: 7ED05621E3B051D
+  expected_values:
+    SEAT_HVBAT_VOLTS: 327.25
+- response: 7ED05621E3B051E
+  expected_values:
+    SEAT_HVBAT_VOLTS: 327.5

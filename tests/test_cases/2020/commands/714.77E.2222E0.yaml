@@ -1,0 +1,8 @@
+command_id: 714.77E.2222E0
+test_cases:
+- response: 77E056222E000DC
+  expected_values:
+    SEAT_RANGE_DSP: 220
+- response: 77E056222E000DE
+  expected_values:
+    SEAT_RANGE_DSP: 222
