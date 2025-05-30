@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221164
+test_cases:
+- response: 7E8056211641B73
+  expected_values:
+    SEAT_HVBAT_SOC_DISP_V2: 70.27
+- response: 7E8056211641B9F
+  expected_values:
+    SEAT_HVBAT_SOC_DISP_V2: 70.71
