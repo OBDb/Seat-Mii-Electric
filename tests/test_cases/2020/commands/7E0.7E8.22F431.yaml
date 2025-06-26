@@ -1,8 +1,29 @@
 command_id: 7E0.7E8.22F431
 test_cases:
-- response: 7E80562F4311371
-  expected_values:
+- expected_values:
     SEAT_CLR_DIST: 4977
-- response: 7E80562F4311372
-  expected_values:
+  response: 7E80562F4311371
+- expected_values:
     SEAT_CLR_DIST: 4978
+  response: 7E80562F4311372
+- expected_values:
+    SEAT_CLR_DIST: 5997
+  response: 7E80562F431176D
+- expected_values:
+    SEAT_CLR_DIST: 5998
+  response: 7E80562F431176E
+- expected_values:
+    SEAT_CLR_DIST: 5999
+  response: 7E80562F431176F
+- expected_values:
+    SEAT_CLR_DIST: 6000
+  response: 7E80562F4311770
+- expected_values:
+    SEAT_CLR_DIST: 6004
+  response: 7E80562F4311774
+- expected_values:
+    SEAT_CLR_DIST: 6005
+  response: 7E80562F4311775
+- expected_values:
+    SEAT_CLR_DIST: 6692
+  response: 7E80562F4311A24

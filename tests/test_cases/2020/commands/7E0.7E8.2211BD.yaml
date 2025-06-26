@@ -1,5 +1,5 @@
 command_id: 7E0.7E8.2211BD
 test_cases:
-- response: 7E8056211BD0C95
-  expected_values:
+- expected_values:
     SEAT_OIL_LEVEL_WARN: 1.2884
+  response: 7E8056211BD0C95

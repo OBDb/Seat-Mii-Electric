@@ -1,8 +1,26 @@
 command_id: 7E0.7E8.221164
 test_cases:
-- response: 7E8056211641B73
-  expected_values:
+- expected_values:
     SEAT_HVBAT_SOC_DISP_V2: 70.27
-- response: 7E8056211641B9F
-  expected_values:
+  response: 7E8056211641B73
+- expected_values:
     SEAT_HVBAT_SOC_DISP_V2: 70.71
+  response: 7E8056211641B9F
+- expected_values:
+    SEAT_HVBAT_SOC_DISP_V2: 80.35
+  response: 7E8056211641F63
+- expected_values:
+    SEAT_HVBAT_SOC_DISP_V2: 81.67
+  response: 7E8056211641FE7
+- expected_values:
+    SEAT_HVBAT_SOC_DISP_V2: 82.1
+  response: '7E8056211642012'
+- expected_values:
+    SEAT_HVBAT_SOC_DISP_V2: 82.54
+  response: 7E805621164203E
+- expected_values:
+    SEAT_HVBAT_SOC_DISP_V2: 82.98
+  response: 7E805621164206A
+- expected_values:
+    SEAT_HVBAT_SOC_DISP_V2: 99.5
+  response: 7E80562116426DE
