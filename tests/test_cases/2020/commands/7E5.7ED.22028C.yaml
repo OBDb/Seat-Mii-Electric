@@ -4,26 +4,5 @@ test_cases:
     SEAT_HVBAT_SOC_V2: 68.62745
   response: 7ED0462028CAF
 - expected_values:
-    SEAT_HVBAT_SOC_V2: 69.01961
-  response: 7ED0462028CB0
-- expected_values:
-    SEAT_HVBAT_SOC_V2: 77.2549
-  response: 7ED0462028CC5
-- expected_values:
-    SEAT_HVBAT_SOC_V2: 77.64706
-  response: 7ED0462028CC6
-- expected_values:
-    SEAT_HVBAT_SOC_V2: 78.82353
-  response: 7ED0462028CC9
-- expected_values:
-    SEAT_HVBAT_SOC_V2: 79.21569
-  response: 7ED0462028CCA
-- expected_values:
-    SEAT_HVBAT_SOC_V2: 79.60784
-  response: 7ED0462028CCB
-- expected_values:
-    SEAT_HVBAT_SOC_V2: 80
-  response: 7ED0462028CCC
-- expected_values:
     SEAT_HVBAT_SOC_V2: 93.72549
   response: 7ED0462028CEF

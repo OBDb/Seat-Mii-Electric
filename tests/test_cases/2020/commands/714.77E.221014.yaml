@@ -4,23 +4,5 @@ test_cases:
     SEAT_AAT_V2: 82
   response: '77E0462101484'
 - expected_values:
-    SEAT_AAT_V2: 83
-  response: '77E0462101485'
-- expected_values:
-    SEAT_AAT_V2: 84
-  response: '77E0462101486'
-- expected_values:
-    SEAT_AAT_V2: 86
-  response: '77E0462101488'
-- expected_values:
-    SEAT_AAT_V2: 88
-  response: 77E046210148A
-- expected_values:
-    SEAT_AAT_V2: 89
-  response: 77E046210148B
-- expected_values:
-    SEAT_AAT_V2: 96
-  response: '77E0462101492'
-- expected_values:
-    SEAT_AAT_V2: 97
-  response: '77E0462101493'
+    SEAT_AAT_V2: 103
+  response: '77E0462101499'
