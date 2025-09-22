@@ -1,8 +1,8 @@
 command_id: 7E5.7ED.221E3D
 test_cases:
 - expected_values:
-    SEAT_HVBAT_CURRENT: -54.75
-  response: 7ED05621E3D0721
+    SEAT_HVBAT_CURRENT: -58
+  response: 7ED05621E3D0714
 - expected_values:
     SEAT_HVBAT_CURRENT: 0.75
   response: 7ED05621E3D07FF
