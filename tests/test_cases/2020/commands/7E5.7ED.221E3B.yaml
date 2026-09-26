@@ -1,8 +1,8 @@
 command_id: 7E5.7ED.221E3B
 test_cases:
 - expected_values:
-    SEAT_HVBAT_VOLTS: 327
+    MII_HVBAT_V: 327
   response: 7ED05621E3B051C
 - expected_values:
-    SEAT_HVBAT_VOLTS: 349.25
+    MII_HVBAT_V: 349.25
   response: 7ED05621E3B0575
