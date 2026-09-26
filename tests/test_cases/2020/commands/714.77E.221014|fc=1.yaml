@@ -1,0 +1,8 @@
+command_id: 714.77E.221014|fc=1
+test_cases:
+- expected_values:
+    MII_AAT_2: 16
+  response: '77E0462101484'
+- expected_values:
+    MII_AAT_2: 26.5
+  response: '77E0462101499'
