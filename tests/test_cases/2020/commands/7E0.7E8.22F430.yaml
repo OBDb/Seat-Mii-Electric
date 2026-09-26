@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.22F430
 test_cases:
 - expected_values:
-    SEAT_WARM_UPS: 126
+    MII_WARM_UPS: 126
   response: 7E80462F4307E
 - expected_values:
-    SEAT_WARM_UPS: 150
+    MII_WARM_UPS: 150
   response: 7E80462F43096
 - expected_values:
-    SEAT_WARM_UPS: 151
+    MII_WARM_UPS: 151
   response: 7E80462F43097
 - expected_values:
-    SEAT_WARM_UPS: 168
+    MII_WARM_UPS: 168
   response: 7E80462F430A8
 - expected_values:
-    SEAT_WARM_UPS: 169
+    MII_WARM_UPS: 169
   response: 7E80462F430A9

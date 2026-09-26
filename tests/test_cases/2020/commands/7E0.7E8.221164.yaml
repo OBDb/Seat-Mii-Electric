@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221164
 test_cases:
 - expected_values:
-    SEAT_HVBAT_SOC_DISP_V2: 70.27
+    MII_HVBAT_SOC_DISP: 70.27
   response: 7E8056211641B73
 - expected_values:
-    SEAT_HVBAT_SOC_DISP_V2: 81.67
+    MII_HVBAT_SOC_DISP: 81.67
   response: 7E8056211641FE7
 - expected_values:
-    SEAT_HVBAT_SOC_DISP_V2: 82.1
+    MII_HVBAT_SOC_DISP: 82.1
   response: '7E8056211642012'
 - expected_values:
-    SEAT_HVBAT_SOC_DISP_V2: 99.5
+    MII_HVBAT_SOC_DISP: 99.5
   response: 7E80562116426DE
