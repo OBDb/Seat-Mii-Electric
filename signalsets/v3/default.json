@@ -9,7 +9,7 @@
   ]},
 { "hdr": "714", "rax": "77E", "fcm1": true, "cmd": {"22": "1014"}, "freq": 5, "dbgfilter": { "to": 2019, "from": 2021 },
   "signals": [
-    {"id": "MII_AAT_2", "path": "Climate", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Ambient air temperature"}
+    {"id": "MII_DASH_AAT", "path": "Climate", "fmt": { "len": 8, "max": 77.5, "min": -50, "div": 2, "add": -50, "unit": "celsius" }, "name": "Ambient air temperature, cluster"}
   ]},
 { "hdr": "714", "rax": "77E", "dbg": true, "cmd": {"22": "2203"}, "freq": 10,
   "signals": [

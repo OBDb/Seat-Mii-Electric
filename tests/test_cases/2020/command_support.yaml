@@ -1,7 +1,7 @@
 model_year: 2020
 supported_commands_by_ecu:
   "714":
-  - 714.77E.221014|fc=1:MII_AAT_2
+  - 714.77E.221014|fc=1:MII_DASH_AAT
   - 714.77E.2222E0:MII_RANGE_DSP
   "715":
   - 715.77F.222353|fc=1:MII_CRASH_FRONT
