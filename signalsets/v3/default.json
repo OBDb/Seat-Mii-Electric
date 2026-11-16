@@ -177,7 +177,7 @@
   ]},
 { "hdr": "7E0", "dbg": true, "cmd": {"22": "F433"}, "freq": 1,
   "signals": [
-    {"id": "MII_BARO", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure"}
+    {"id": "MII_BARO", "path": "Climate", "fmt": { "len": 8, "max": 255, "unit": "kilopascal" }, "name": "Barometric pressure", "suggestedMetric": "barometricPressure"}
   ]},
 { "hdr": "7E0", "dbg": true, "cmd": {"22": "F446"}, "freq": 5,
   "signals": [
