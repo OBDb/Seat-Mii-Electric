@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     MII_RANGE_DSP: 264
   response: 77E056222E00108
+- expected_values:
+    MII_RANGE_DSP: null
+  response: 77E056222E0FFFF
